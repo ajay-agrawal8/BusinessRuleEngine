@@ -12,8 +12,7 @@ namespace BusinessRuleEngineUI
                               "2. Book\n" +
                               "3. Activation of Membership\n" +
                               "4. Upgrading the Existing membership\n" +
-                              "5. \"Learning to Ski\" video" +
-                              "6. \"Other\" video");
+                              "5. \"Learning to Ski\" video");
 
             Console.WriteLine("Press 0 to exit.");
 
